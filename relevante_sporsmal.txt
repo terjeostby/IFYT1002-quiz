@@ -1,0 +1,270 @@
+En baseball forlater hånden til den som kaster med en fart på 45,0 m/s og akselerasjonen er konstant over en strekning på 1,50 m. Hva er akselerasjonen til ballen?
+0 m/s²
+15,0 m/s²
+45,0 m/s²
+675 m/s²
+1
+En baseball forlater hånden til den som kaster med en fart på 45,0 m/s og akselerasjonen er konstant over en strekning på 1,50 m. Hvor lang tid var ballen i kontakt med hånda?
+0,0333 s
+0,150 s
+0,667 s
+3,00 s
+2
+En kollisjonspute kan stoppe et menneske utsatt for maks 250 m/s². En bil kjører i 105 km/h idet du treffer kollisjonsputa. Over hvilken strekning må puta dempe deg for at akselerasjonen ikke overstiger 250 m/s²?
+0,21 m
+0,50 m
+1,01 m
+2,00 m
+2
+I januar 2004 reduserte Mars-kapselen hastigheten fra 19300 km/h til 1600 km/h på 4,0 min. Anta konstant akselerasjon. Hva var akselerasjonen i trinn A?
+−20,4 m/s²
+−70,3 m/s²
+−883 m/s²
+−1340 m/s²
+1
+Mars-kapselen reduserte hastigheten fra 1600 km/h til 321 km/h på 94 s under trinn B med konstant akselerasjon. Hva var akselerasjonen?
+−0,38 m/s²
+−0,57 m/s²
+−3,61 m/s²
+−9,81 m/s²
+2
+En rakett motor reduserte hastigheten fra 321 km/h til 0 over 75 m med konstant akselerasjon. Hva var denne akselerasjonen?
+−0,79 m/s²
+−1,57 m/s²
+−3,61 m/s²
+−5,91 m/s²
+3
+En bok sklir av et horisontalt bord med horisontal fart 1,10 m/s og treffer gulvet etter 0,350 s. Hva er bordets høyde?
+0,600 m
+1,10 m
+0,350 m
+3,43 m/s
+0
+En bok sklir av et horisontalt bord med horisontal fart 1,10 m/s og treffer gulvet etter 0,350 s. Hvor langt horisontalt fra bordkanten lander boka?
+0,385 m
+0,600 m
+0,550 m
+0,770 m
+0
+En bok sklir av et horisontalt bord med horisontal fart 1,10 m/s og treffer gulvet etter 0,350 s. Hva er farten til boka idet den treffer gulvet?
+3,61 m/s
+3,43 m/s
+1,10 m/s
+0,600 m/s
+0
+En bok sklir av et horisontalt bord med horisontal fart 1,10 m/s og treffer gulvet etter 0,350 s. I hvilken vinkel under horisontalen treffer den gulvet?
+72,2°
+57,8°
+33,2°
+17,8°
+0
+En mynt kastes med startfart 6,4 m/s og vinkel 60° og faller i en skål som ligger 2,10 m horisontalt fra utgangspunktet. Hva er høyden til skåla over utgangspunktet?
+1,53 m
+2,10 m
+1,10 m
+0,78 m
+0
+En mynt kastes med startfart 6,4 m/s og vinkel 60° og faller i en skål som ligger 2,10 m horisontalt fra utgangspunktet. Hva er den vertikale komponenten av farten like før mynten lander?
+0,89 m/s nedover
+0,89 m/s oppover
+5,54 m/s nedover
+3,20 m/s nedover
+0
+En pasient skal gå med en ansiktsstropp som gir en netto oppoverkraft på 5,00 N på underkjeven. De to endene av stroppen danner en vinkel på 75,0° under haka. Hva må hvert tau i stroppen belastes med av spenning?
+3,06 N
+5,00 N
+10,3 N
+3,73 N
+3
+En skøyteløper med masse 68,5 kg går fra 2,40 m/s til stillestående på ru is på 3,52 s. Hvor stor friksjonskraft virker på skøyteløperen?
+−16,6 N
+−46,4 N
+−46,8 N
+−64,8 N
+2
+En vannmelon veier 44,0 N på jordoverflaten. Hva er massen til vannmelonen, og hva blir tyngden på overflaten av Jupiter-månen Io (g = 1,81 m/s²)?
+a) m = 4,49 kg, W_Io = 8,12 N  
+b) m = 4,49 kg, W_Io = 24,4 N  
+c) m = 0,449 kg, W_Io = 8,12 N  
+d) m = 4,49 kg, W_Io = 44,0 N  
+0
+En student med masse 45 kg hopper fra et stupebrett. Jorda har masse 6,0·10²⁴ kg. Når studenten faller med akselerasjon 9,80 m/s², hvor stor akselerasjon har jorda mot studenten?
+1,47·10⁻²⁴ m/s²
+7,47·10⁻²⁴ m/s²
+2,65·10⁻²² m/s²
+3,27·10⁻²³ m/s²
+0
+I det raskeste baseballkastet målte man at en ball (m = 0,145 kg) forlot hånda med 46 m/s, drevet av en konstant horisontal kraft over 1,0 m. Hvor stor var denne kraften?
+154 N
+3250 N
+1530 N
+310 N
+2
+En blokk med masse 2,00 kg skyves med konstant kraft 10,0 N over en glatt horisontal flate i 3,00 m. Hva er arbeidet utført av kraften?
+30,0 J
+13,3 J
+10,0 J
+3,00 J
+0
+En gjenstand med masse 5,00 kg løftes vertikalt opp 2,50 m med konstant kraft. Hva er arbeidet utført av tyngdekraften?
+−122,5 J
+122,5 J
+−49,0 J
+49,0 J
+0
+En kasse sklir ned et friksjonsfritt skråplan med vertikal høyde 5,00 m. Hva er farten like før bunnen?
+9,90 m/s
+31,3 m/s
+4,43 m/s
+2,23 m/s
+0
+Et legeme med masse 2,00 kg påføres en konstant netto horisontal kraft på 6,00 N og forskyves 3,00 m. Startfarten er 2,00 m/s. Hva er farten etter forskyvningen?
+4,69 m/s
+2,00 m/s
+3,87 m/s
+5,29 m/s
+0
+Kasse sendes oppover et skråplan med konstant vinkel α slik at den når en høyde h. Glidefriksjonstallet er μk. Hva er startfarten ved bunnen av skråplanet uttrykt ved g, h, μk og α?
+√(2 g h (1+μk cot α))
+√(2 g h (1+μk tan α))
+√(2 g h (1−μk cot α))
+√(g h (1+μk cot α))
+0
+En kasse skal sendes oppover et skråplan med vinkel 30° med h = 2,00 m og μk = 0,100. Hva er numerisk startfart v₀?
+6,78 m/s
+7,07 m/s
+5,42 m/s
+8,34 m/s
+0
+Menneskehjertet pumper daglig et blodvolum på 7500 L til gjennomsnittshøyde 1,63 m. Blodets tetthet er 1,05×10³ kg/m³. Hva er arbeidet i løpet av en dag?
+1,26×10⁵ J
+1,26×10⁸ J
+1,26×10⁶ J
+1,26×10⁴ J
+0
+Hvor stor er effekten hjertet produserer, målt i watt?
+1,46 W
+14,6 W
+146 W
+0,146 W
+0
+En solid skive med masse 2,00 kg og radius 0,50 m utsettes for et konstant dreiemoment på 4,00 N·m. Hva blir skivens vinkelakselerasjon?
+4,00 rad/s²
+8,00 rad/s²
+16,0 rad/s²
+32,0 rad/s²
+2
+En solid kule ruller uten å skli ned et skråplan med høyde 2,00 m. Hvor stor blir farten i bunnen?
+4,43 m/s
+5,29 m/s
+6,16 m/s
+7,02 m/s
+1
+En tynn ring (masse m, radius R) ruller uten å skli ned samme skråplan (h = 2,00 m). Hva blir farten i bunnen?
+2,22 m/s
+3,13 m/s
+4,43 m/s
+5,29 m/s
+1
+To punktmasser m₁ = 2,00 kg og m₂ = 4,00 kg henger i endene av en masseløs stang på 1,00 m, pendlet om midten. Hva er treghetsmomentet om pivot?
+0,75 kg·m²
+1,00 kg·m²
+1,50 kg·m²
+2,00 kg·m²
+2
+En solid sylinder (m = 0,10 kg, R = 0,02 m) trekkes opp av en tråd med konstant spenning 0,50 N. Hva blir trådens lineære akselerasjon?
+2,50 m/s²
+5,00 m/s²
+10,0 m/s²
+20,0 m/s²
+2
+En homogen stang (L = 1,20 m) er festet i det ene endepunktet og holdes horisontalt. Når den slippes fra ro, hva blir dens innledende vinkelakselerasjon?
+4,10 rad/s²
+8,20 rad/s²
+12,3 rad/s²
+16,4 rad/s²
+2
+En golfball med masse 0,0450 kg er i ro og får en fart på 25,0 m/s når den treffes av en kølle. Kontakttiden er 2,00 ms. Hva er gjennomsnittskraften på ballen?
+281 N
+563 N
+1125 N
+2250 N
+1
+Et prosjektil med masse 12,0 g og fart 380 m/s treffer en ballistisk pendel (masse 6,00 kg) og blir hengende fast. Pendelen har lengde 0,70 m. Hvor høyt svinger pendelen opp?
+1,47 cm
+2,93 cm
+5,87 cm
+11,7 cm
+1
+En gjenstand A med masse 1,00 kg beveger seg med 4,00 m/s mot en stasjonær gjenstand B med masse 3,00 kg. De kolliderer elastisk i én dimensjon. Hva blir farten til A etter kollisjonen?
+−2,00 m/s
+2,00 m/s
+3,00 m/s
+1,00 m/s
+0
+En bil med masse 1500 kg kolliderer bakfra med en stillestående bil på 1900 kg. De henger sammen og sklir med låste hjul 7,15 m før de stopper. Glidefriksjonskoeffisienten er 0,65. Hva var farten til bilen som traff?
+19,8 m/s
+21,7 m/s
+25,4 m/s
+30,1 m/s
+1
+Et nøytron med masse 1,0 u kolliderer elastisk sentralt med en stasjonær deutron (2,0 u). Hva blir nøytronets fart etter støtet uttrykt ved startfarten v₀?
+v₀
+v₀/3
+−v₀/3
+−v₀
+2
+En skøyteløper med masse 50,0 kg står i ro. Han dytter en annen skøyteløper (70,0 kg) slik at hun får fart 2,00 m/s. Hva blir hans fart etter at han har dyttet?
+−2,80 m/s
+2,80 m/s
+−1,40 m/s
+1,40 m/s
+0
+En proton med ladning 1,60×10⁻¹⁹ C og fart 2,00×10⁶ m/s beveger seg vinkelrett mot et homogent magnetfelt  på 0,500 T. Hva blir magnetkraftens størrelse på protonet?
+1,60×10⁻¹³ N
+1,60×10⁻¹² N
+1,60×10⁻⁴ N
+1,60×10⁻⁶ N
+0
+To lange, rette, parallelle ledere fører hver strøm 5,00 A i motsatte retninger og har senteravstand 10,0 cm. Hva blir magnetkraften per meter mellom dem?
+1,00×10⁻⁵ N/m
+2,00×10⁻⁵ N/m
+4,00×10⁻⁵ N/m
+8,00×10⁻⁵ N/m
+2
+En sirkulær strømsløyfe med radius 10,0 cm fører strøm 2,00 A. Hva er magnetfeltet i sentrum av sløyfa?
+2,51×10⁻⁶ T
+5,03×10⁻⁶ T
+1,26×10⁻⁶ T
+7,54×10⁻⁶ T
+1
+Et homogent magnetfelt senker seg fra 0,800 T til 0,200 T på 0,100 s gjennom en flate 0,0500 m². Hvor stor indusert ems kommer opp i en enkel ledersløyfe?
+3,00 V
+2,50 V
+1,50 V
+4,00 V
+0
+En lederstang med lengde 0,500 m beveger seg med fart 4,00 m/s vinkelrett gjennom et homogent magnetfelt  på 0,200 T. Hva blir den motorduserte ems i stanga?
+0,400 V
+0,200 V
+1,00 V
+0,100 V
+0
+En spole med N = 100 vindinger og areal A = 0,020 m² roteres med konstant vinkelhastighet ω = 50,0 rad/s i homogent felt  = 0,100 T slik at vinkelen mellom A⊥ og  varierer som ϕ = ωt. Hva er maksimal ems i spolen?
+0,10 V
+0,20 V
+0,50 V
+1,00 V
+2
+En metallstang av lengde 0,200 m glir uten friksjon langs to parallelle skinner i et homogent magnetfelt  = 0,300 T. Den induserte strømmen måler til 0,500 A, og motstanden i kretsen er 2,00 Ω. Hvor raskt glir stanga?
+1,67 m/s
+0,83 m/s
+3,33 m/s
+0,42 m/s
+0
+Et magnetisk felt gjennom en sløyfe A = 0,100 m² øker fra 0,100 T til 0,300 T på 0,050 s. Hvilken retning vil den induserte strømmen få i henhold til Lenz’ lov?
+Med klokka sett ovenfra
+Mot klokka sett ovenfra
+Ingen strøm induseres
+Retningen skifter kontinuerlig
+1

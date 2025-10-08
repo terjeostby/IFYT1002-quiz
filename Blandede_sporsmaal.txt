@@ -244,3 +244,723 @@ Det er en induktiv syllogisme.
 Det er en induktiv generalisering.
 Det er et analogiargument.
 2
+Hva menes med et standpunkt i en argumentasjon?
+En tilfeldig mening uten begrunnelse.
+Hovedpåstanden det argumenteres for eller mot.
+Et eksempel som brukes for å illustrere et poeng.
+En logisk følge av en slutning.
+1
+Hva er et standpunktargument?
+Et argument som direkte støtter hovedpåstanden.
+Et eksempel på irrelevant informasjon.
+Et motargument.
+En retorisk appell.
+0
+Hva er et indirekte argument?
+Et argument som støtter et annet argument i kjeden.
+Et argument som gjentar standpunktet.
+Et argument som ikke kan bevises.
+Et retorisk virkemiddel.
+0
+Hva kjennetegner et godt argument?
+Det inneholder sterke følelser og overbevisning.
+Det er logisk gyldig, riktig og relevant.
+Det er skrevet med mange fremmedord.
+Det bruker autoritetsreferanser uten begrunnelse.
+1
+Hva betyr det at et argument er relevant?
+At det er kort og enkelt.
+At det støtter standpunktet dersom det er sant.
+At det er kjent fra før.
+At det virker overbevisende emosjonelt.
+1
+Hva betyr det at et argument er riktig?
+At påstandene i argumentet er sanne.
+At det høres bra ut.
+At det er skrevet av en ekspert.
+At det ikke motsier seg selv.
+0
+Hva menes med debattnormen om å bidra med riktig informasjon?
+At man bare skal dele informasjon man liker.
+At man skal bidra med informasjon man tror er sann.
+At man skal bidra med informasjon man vet er sann eller velbegrunnet.
+At man skal bruke kilder uten å vurdere dem kritisk.
+2
+Hva er et eksempel på personargumentasjon?
+Å påpeke svakheter i motpartens argumentasjon.
+Å angripe motpartens person fremfor saken.
+Å vise til en pålitelig kilde.
+Å bruke humor for å lette stemningen.
+1
+Hva er et eksempel på stråmannsargumentasjon?
+Å gjengi motpartens syn riktig og svare saklig.
+Å forvrenge motpartens syn slik at det blir lettere å angripe.
+Å nekte å svare på spørsmål.
+Å bruke vitenskapelige data på feil måte.
+1
+Hva er forskjellen på argumenters logiske og retoriske funksjon?
+Logisk handler om å støtte påstander, retorisk handler om å overbevise.
+Retorisk handler om fakta, logisk handler om overbevisning.
+Det finnes ingen forskjell.
+Logisk er alltid bedre enn retorisk.
+0
+Hva menes med deduktive argumenter?
+Argumenter hvor konklusjonen følger logisk fra premissene.
+Argumenter basert på erfaring og observasjon.
+Argumenter som bruker analogier.
+Argumenter som ikke kan motbevises.
+0
+Hva menes med induktive argumenter?
+Argumenter hvor konklusjonen følger nødvendigvis fra premissene.
+Argumenter som trekker sannsynlige slutninger fra observasjoner.
+Argumenter som må være sanne.
+Argumenter som bygger på aksiomer.
+1
+Hva er en induktiv generalisering?
+Å trekke en generell konklusjon basert på enkelttilfeller.
+Å anvende en generell regel på et enkelt tilfelle.
+Å sammenligne to ulike fenomener.
+Å finne en logisk motsigelse.
+0
+Hva er et analogiargument?
+Et argument som hevder at to tilfeller ligner hverandre i relevante trekk.
+Et argument som bruker tall og statistikk.
+Et argument uten standpunkt.
+Et argument som gjentar konklusjonen.
+0
+Hva er et abduktivt argument?
+Et argument som finner den beste forklaringen på et fenomen.
+Et argument som alltid er feil.
+Et argument som kun bygger på tro.
+Et argument som krever formell logikk.
+0
+Hva er formålet med offentlig debatt ifølge John Stuart Mill?
+Å hindre folk i å ta feil.
+Å fremme sannhet gjennom fri meningsutveksling.
+Å la myndighetene bestemme hva som er sant.
+Å unngå konflikt.
+1
+Hva er formålet med offentlig debatt ifølge Jürgen Habermas?
+Å sikre konsensus som grunnlag for politisk legitimitet.
+Å hindre ytringer som kan såre andre.
+Å samle støtte til bestemte partier.
+Å måle hvor mange som deltar.
+0
+Hvilket brudd på debattnormer representerer et personangrep?
+Brudd på kravet om relevant informasjon.
+Brudd på kravet om riktig informasjon.
+Brudd på kravet om å gi grunner.
+Brudd på kravet om klarhet.
+0
+Hva testes når vi vurderer et arguments riktighet?
+Om det er sant.
+Om det er kort.
+Om det er overbevisende.
+Om det er kjent.
+0
+Hva testes når vi vurderer et arguments relevans?
+Om det, hvis sant, taler for eller mot standpunktet.
+Om det høres bra ut.
+Om det støtter alle sider likt.
+Om det er skrevet av en ekspert.
+0
+Hva er hovedspørsmålet i normativ etikk?
+Hva som faktisk påvirker folks moralske valg.
+Hva som gjør en handling moralsk riktig eller gal.
+Hvordan moral utvikler seg gjennom livet.
+Hvordan ulike kulturer ser på moral.
+1
+Hva kjennetegner utilitarismen?
+At riktig handling maksimerer samlet lykke og minimerer lidelse.
+At man alltid skal følge faste plikter uansett konsekvenser.
+At man bør handle etter gode karaktertrekk.
+At alt moralsk er relativt.
+0
+Hva kjennetegner pliktetikken (deontologien)?
+At konsekvensene avgjør rett og galt.
+At moralsk handling vurderes etter plikt og intensjon, ikke konsekvens.
+At moral handler om følelser.
+At man bør maksimere nytte for flest mulig.
+1
+Hva kjennetegner dydsetikk?
+At riktig handling bestemmes av lover.
+At det moralske ligger i karakter og dyder.
+At man alltid skal handle etter nytte.
+At handlingens motiv er irrelevant.
+1
+Hva sier Kants humanitetsformulering?
+Behandle alltid mennesker som mål i seg selv, aldri bare som middel.
+Søk størst mulig lykke for flest mulig.
+Følg samfunnets lover til enhver tid.
+Sørg for å oppnå gode konsekvenser.
+0
+Hva kjennetegner et hypotetisk imperativ hos Kant?
+En regel som gjelder betinget – hvis du vil oppnå noe, bør du handle slik.
+En regel som alltid gjelder uansett situasjon.
+Et moralsk prinsipp om menneskeverd.
+Et uttrykk for dydig handling.
+0
+Hva kjennetegner et kategorisk imperativ hos Kant?
+En betinget regel som avhenger av ønsket resultat.
+En regel som alltid gjelder, uavhengig av konsekvenser.
+En regel som gjelder bare i bestemte kulturer.
+En subjektiv moralregel.
+1
+Hva innebærer det dobbelte virkingsprinsipp (prinsippet om dobbel effekt)?
+At enhver handling med negative bivirkninger er moralsk feil.
+At en handling kan være moralsk tillatt selv om den har en forutsett, men ikke intendert skade, hvis målet er godt og midlet ikke ondt.
+At man bør unngå å gjøre noe som skader andre uansett.
+At man alltid skal handle etter plikt fremfor konsekvens.
+1
+Hva er etisk relativisme?
+At moral er universell og gjelder alle.
+At moral avhenger av kultur og kontekst.
+At moral er uforanderlig.
+At moral er bestemt av Gud.
+1
+Hva er moralsk nihilisme?
+At moralske påstander kan være sanne eller falske.
+At det ikke finnes moralske sannheter.
+At moral er styrt av nytte.
+At moral er bestemt av flertallet.
+1
+Hva er etisk egoisme?
+At man bør handle slik at man selv får det best mulig.
+At man alltid skal handle ut fra medfølelse.
+At man skal sette fellesskapets beste foran sitt eget.
+At moral bare gjelder dyr.
+0
+Hva sier dydsetikken om karakter?
+At moral ligger i gode holdninger og vaner, ikke bare regler.
+At moral kun er resultatbasert.
+At karakter er irrelevant for etikk.
+At bare intensjoner teller.
+0
+Hva innebærer prinsippet om bærekraftig utvikling (Brundtland-definisjonen)?
+Å dekke dagens behov uten å ødelegge fremtidige generasjoners mulighet til å dekke sine.
+Å redusere forbruk uansett konsekvenser.
+Å stanse teknologisk utvikling.
+Å prioritere natur over mennesker.
+0
+Hva menes med svak bærekraft?
+At naturkapital kan delvis erstattes av menneskeskapt kapital så lenge totalen opprettholdes.
+At naturkapital aldri kan erstattes.
+At økonomisk vekst er irrelevant.
+At bærekraft er et rent moralsk ideal.
+0
+Hva menes med sterk bærekraft?
+At naturens ressurser har egenverdi og ikke kan erstattes av økonomisk kapital.
+At kapitalformer alltid er utskiftbare.
+At bærekraft handler kun om teknologi.
+At mennesket står utenfor naturen.
+0
+Hva innebærer profesjonsetikk for ingeniører ifølge NSPE og Tekna?
+At ingeniører skal prioritere samfunnets sikkerhet, helse og velferd høyest.
+At økonomisk lønnsomhet alltid kommer først.
+At ingeniører kun skal følge bedriftens retningslinjer.
+At man ikke trenger etisk refleksjon i teknologiutvikling.
+0
+Hva menes med moralsk ansvar i teknologisk sammenheng (van de Poel & Royakkers)?
+At ansvar kun kan tilskrives en enkeltperson.
+At ansvar ofte er delt mellom mange aktører i komplekse systemer.
+At ansvar alltid ligger hos staten.
+At teknologi er moralsk nøytral.
+1
+Hva menes med konsekvensetikkens hovedidé?
+At en handlings moralske verdi bestemmes av dens konsekvenser.
+At bare intensjonen teller.
+At moral ikke kan vurderes objektivt.
+At man må følge faste plikter.
+0
+Hva er forskjellen mellom deskriptiv og normativ etikk?
+Deskriptiv beskriver hvordan folk faktisk handler, normativ sier hva som er riktig å gjøre.
+Normativ beskriver handlinger, deskriptiv sier hva man bør gjøre.
+Deskriptiv handler om lover, normativ om statistikk.
+Ingen forskjell.
+0
+Hva er metaetikk opptatt av?
+Språket, logikken og grunnlaget for moralske utsagn.
+Praktiske etiske dilemmaer.
+Hvilke regler man bør følge.
+Hvordan mennesker sosialiseres.
+0
+Hva er skadeprinsippet hos John Stuart Mill?
+At staten kan begrense frihet for å fremme dyd.
+At staten bare kan bruke makt mot individet for å hindre skade på andre.
+At staten bør alltid maksimere lykke.
+At staten skal beskytte folk mot seg selv.
+1
+Hva menes med negativ frihet?
+Frihet fra ytre hindringer og tvang.
+Frihet til å realisere seg selv.
+Frihet som økonomisk makt.
+Frihet som medfødt rettighet.
+0
+Hva menes med positiv frihet?
+Frihet som fravær av inngrep.
+Frihet til selvbestemmelse og å være herre over eget liv.
+Frihet som rett til eiendom.
+Frihet fra staten.
+1
+Hva er paternalisme?
+Å begrense noens frihet med henvisning til at det er til deres eget beste.
+Å begrense noens frihet av hensyn til andres sikkerhet.
+Å støtte moralsk relativisme.
+Å utvide individuell autonomi.
+0
+Hva er forskjell på myk og hard paternalisme?
+Myk paternalisme griper inn når personen ikke handler frivillig eller informert, mens hard paternalisme griper inn selv om personen handler frivillig.
+Hard paternalisme gjelder bare økonomi, myk gjelder helse.
+Myk paternalisme handler om kultur, hard om lov.
+Det finnes ingen forskjell.
+0
+Hva kjennetegner liberalismen i politisk filosofi?
+Vekt på individuell frihet, rettigheter og begrenset statlig makt.
+Tro på kollektiv eiendom og sentral planlegging.
+Tro på statens moralske overhøyhet.
+Tro på at tradisjon bør styre samfunnet.
+0
+Hva er Charles Taylors forskjellspolitikk?
+Politikk for anerkjennelse og bevaring av minoriteters kultur og identitet.
+Politikk som fremmer økonomiske forskjeller.
+Politikk som prioriterer likhet fremfor rettferdighet.
+Politikk som kun gjelder majoritetskulturen.
+0
+Hva menes med politisk atomisme?
+Synet om at samfunnet består av uavhengige individer som primært handler ut fra egne interesser.
+Synet om at fellesskapet er grunnlaget for individet.
+En kollektivistisk ideologi.
+Et religiøst syn på politikk.
+0
+Hva menes med rettferdig fordeling?
+At goder og byrder fordeles etter prinsipper som likhet, behov eller fortjeneste.
+At alle får nøyaktig like mye.
+At staten ikke skal blande seg i markedet.
+At urettferdighet er nødvendig for fremgang.
+0
+Hva er forskjellen mellom interessebaserte og statusbaserte rettighetsteorier?
+Interessebaserte begrunner rettigheter ut fra nytte og velferd, mens statusbaserte begrunner dem ut fra menneskers iboende verdi.
+Statusbaserte handler om økonomi, interessebaserte om makt.
+Interessebaserte kommer fra Gud, statusbaserte fra samfunnet.
+Ingen forskjell.
+0
+Hva menes med utilitaristisk frihetsbegrunnelse?
+Frihet er verdifull fordi den øker lykke og velferd for flest mulig.
+Frihet er verdifull i seg selv, uavhengig av konsekvensene.
+Frihet er irrelevant for nytte.
+Frihet må alltid begrenses for fellesskapets beste.
+0
+Hva er forholdet mellom demokrati og ekspertise ifølge demokratiteori?
+Ekspertkunnskap må balanseres med demokratisk legitimitet gjennom åpne og begrunnede prosesser.
+Eksperter bør styre samfunnet alene.
+Folk flest bør ikke delta i styringen.
+Ekspertise undergraver alltid demokratiet.
+0
+Hva menes med rettigheter som iboende (natural rights)?
+Rettigheter stammer fra menneskets natur og gjelder uavhengig av lover.
+Rettigheter gis av staten.
+Rettigheter gjelder bare flertallet.
+Rettigheter er sosiale konstruksjoner uten grunnlag.
+0
+Hva er forskjellen mellom sterk og svak egalitarisme?
+Sterk egalitarisme krever absolutt likhet i goder, svak tillater ulikhet hvis den gagner de dårligst stilte.
+Svak egalitarisme krever full likhet, sterk gjør ikke det.
+Sterk gjelder bare økonomi, svak bare politikk.
+De er identiske.
+0
+Hva sier Martha Nussbaums kapabilitetstilnærming?
+At en stat er god i den grad den gir innbyggerne reelle muligheter til å utøve evner og funksjoner.
+At lykke er det eneste relevante målet.
+At frihet handler om penger.
+At kapabiliteter er det samme som ressurser.
+0
+Hva er forskjellen mellom liberal og republikan frihetsforståelse?
+Liberal frihet = fravær av tvang; republikan frihet = fravær av dominans.
+Liberal frihet = moralsk frihet; republikan frihet = økonomisk frihet.
+Liberal frihet = likhet; republikan frihet = ulikhet.
+Ingen forskjell.
+0
+Hva er et hovedargument for ytringsfrihet hos Mill?
+At sannhet og innsikt fremmes gjennom fri meningsutveksling.
+At staten trenger informasjon fra folket.
+At ytringsfrihet skaper harmoni.
+At ytringsfrihet er et middel til økonomisk vekst.
+0
+Hva menes med paternalisme i helsepolitikk?
+At staten begrenser individets valg for å beskytte det mot skade på seg selv.
+At staten alltid bør unngå regulering.
+At individet må handle altruistisk.
+At helse kun er et privat ansvar.
+0
+Hva er forskjellen mellom positiv og negativ rettferdighet?
+Negativ rettferdighet handler om fravær av urett, positiv om aktiv fremming av rettferdige forhold.
+Positiv rettferdighet handler om straff, negativ om belønning.
+Negativ handler om penger, positiv om moral.
+Ingen forskjell.
+0
+Hva er forskjellen mellom paternalisme og skadeprinsippet?
+Paternalisme begrenser frihet for individets eget beste, skadeprinsippet for andres beste.
+Begge handler om samme prinsipp.
+Skadeprinsippet er sterkere enn paternalisme.
+De er uforenlige i alle tilfeller.
+0
+Hva er hovedmålet med vitenskap ifølge klassisk vitenskapsfilosofi?
+Å forklare, forstå og forutsi fenomener gjennom systematisk undersøkelse.
+Å bevise religiøse dogmer.
+Å skape profitt.
+Å bekrefte det vi allerede tror.
+0
+Hva kjennetegner den hypotetisk-deduktive metoden?
+Man danner hypoteser og tester dem mot observasjoner.
+Man samler kun fakta uten hypoteser.
+Man bruker bare logiske aksiomer.
+Man baserer seg utelukkende på tradisjon og autoritet.
+0
+Hva menes med falsifikasjon ifølge Karl Popper?
+At teorier aldri kan bevises, men må kunne motbevises.
+At man skal bevise alle teorier.
+At alle hypoteser må være sanne.
+At vitenskap handler om å bekrefte observasjoner.
+0
+Hva er forskjellen mellom induksjon og deduksjon i vitenskap?
+Induksjon trekker konklusjoner fra observasjoner, deduksjon anvender generelle lover på enkelttilfeller.
+Deduksjon handler om empiri, induksjon om logikk.
+Induksjon gjelder bare filosofi.
+Ingen forskjell.
+0
+Hva menes med paradigme ifølge Thomas Kuhn?
+Et sett av grunnleggende antakelser og metoder som deles av forskere innen et felt.
+En enkel teori som kan testes direkte.
+Et logisk bevis.
+Et personlig syn på et fenomen.
+0
+Hva skjer ifølge Kuhn ved et paradigmeskifte?
+Gamle teorier erstattes av nye som endrer forståelsen av verden.
+Vitenskapen blir mindre presis.
+Forskerne mister interessen for fagfeltet.
+Alle paradigmer blir stående ved siden av hverandre.
+0
+Hva kjennetegner vitenskapelig realisme?
+At vitenskapens teorier beskriver en virkelighet som eksisterer uavhengig av oss.
+At vitenskap bare er et sosialt spill.
+At vitenskap kun beskriver menneskers erfaringer.
+At sannhet er relativ til kultur.
+0
+Hva menes med instrumentalismen?
+At vitenskapelige teorier er nyttige verktøy for å forutsi fenomener, ikke nødvendigvis sanne beskrivelser av virkeligheten.
+At teorier må være sanne for å brukes.
+At vitenskap ikke trenger forklaringer.
+At sannhet er irrelevant for vitenskap.
+0
+Hva betyr det at vitenskap skal være verdinøytral?
+At forskere ikke lar politiske, økonomiske eller moralske verdier styre resultatene.
+At forskere aldri kan påvirkes av verdier.
+At vitenskap ikke har praktisk nytte.
+At vitenskap alltid er objektiv.
+0
+Hva hevder teknologideterminisme?
+At teknologi utvikler seg uavhengig av samfunn og verdier og former samfunnet.
+At samfunnet styrer all teknologi.
+At teknologi er moralsk nøytral.
+At teknologi alltid skaper fremgang.
+0
+Hva hevder sosialkonstruktivisme om teknologi?
+At teknologi formes av sosiale, økonomiske og kulturelle prosesser.
+At teknologi utvikles helt tilfeldig.
+At teknologi ikke påvirkes av mennesker.
+At teknologi bestemmes av naturlover alene.
+0
+Hva er ansvarsgapet (the responsibility gap) i moderne teknologi?
+At autonome systemer gjør det vanskelig å plassere moralsk ansvar når noe går galt.
+At ingeniører ikke har ansvar for feil.
+At brukerne alltid bærer all skyld.
+At lover er for strenge mot teknologer.
+0
+Hva betyr begrepet “bærekraftig utvikling” i Brundtland-rapporten?
+Å møte dagens behov uten å ødelegge for fremtidige generasjoners muligheter.
+Å stoppe all vekst for å bevare naturen.
+Å prioritere natur fremfor mennesker.
+Å maksimere økonomisk vekst.
+0
+Hva menes med svak bærekraft?
+At naturressurser kan delvis erstattes av menneskeskapt kapital så lenge totalen opprettholdes.
+At naturressurser aldri kan erstattes.
+At økonomisk vekst er uetisk.
+At kun teknologisk kapital teller.
+0
+Hva menes med sterk bærekraft?
+At naturkapital har egenverdi og ikke kan erstattes av økonomisk kapital.
+At alle former for kapital er likeverdige.
+At økonomisk kapital alltid må prioriteres.
+At miljøvern er kun et moralsk ideal.
+0
+Hva er forskjellen på teknologisk optimisme og teknologisk pessimisme?
+Optimisme ser teknologi som en løsning, pessimisme ser teknologi som en trussel.
+Optimisme handler om økonomi, pessimisme om miljø.
+Optimisme gjelder bare fornybar energi.
+Det finnes ingen forskjell.
+0
+Hva sier Martin & Schinzinger om ingeniørers samfunnsansvar?
+At ingeniører har et etisk ansvar for sikkerhet, helse, velferd og bærekraft i samfunnet.
+At ingeniørens ansvar begrenses til arbeidsgivers interesser.
+At etikk ikke gjelder tekniske yrker.
+At ansvar kun ligger hos politikerne.
+0
+Hva innebærer begrepet “teknologisk fremmedgjøring” hos Fjelland?
+At mennesker mister forståelse og kontroll over teknologien de selv har skapt.
+At teknologi alltid forbedrer livskvalitet.
+At teknologi og moral er uavhengige.
+At bare eksperter kan forstå teknologi.
+0
+Hva menes med forebyggende ansvar i teknologisk etikk (van de Poel & Royakkers)?
+Å identifisere og minimere risiko før skade skjer.
+Å reagere etter en ulykke.
+Å overlate ansvar til brukerne.
+Å la markedet regulere seg selv.
+0
+Hva menes med et “moralsk systemperspektiv” på teknologi?
+At ansvar og konsekvenser må vurderes i et helhetlig nettverk av aktører, strukturer og teknologi.
+At bare individets intensjoner teller.
+At teknologi ikke har moralsk betydning.
+At moral er irrelevant for teknologiske systemer.
+0
+Hva menes med et standpunkt i en argumentasjon?
+En tilfeldig mening uten grunnlag.
+Hovedpåstanden det argumenteres for eller mot.
+Et eksempel brukt for å illustrere et poeng.
+En bivirkning av en slutning.
+1
+Hva kjennetegner utilitarismen?
+At riktig handling maksimerer samlet lykke og minimerer lidelse.
+At man alltid skal handle etter plikt uavhengig av konsekvenser.
+At dyd og karakter avgjør moral.
+At alt moralsk er kulturelt relativt.
+0
+Hva er skadeprinsippet hos Mill?
+At staten bare kan begrense frihet for å hindre skade på andre.
+At staten bør beskytte individet mot seg selv.
+At staten skal maksimere total lykke.
+At staten bør regulere etter majoritetens vilje.
+0
+Hva menes med deduktive argumenter?
+Argumenter hvor konklusjonen følger logisk nødvendigvis fra premissene.
+Argumenter basert på observasjoner og sannsynlighet.
+Argumenter som sammenligner fenomener.
+Argumenter som ikke kan bevises.
+0
+Hva menes med sterk bærekraft?
+At naturkapital har egenverdi og ikke kan erstattes av økonomisk kapital.
+At naturressurser kan erstattes fritt så lenge økonomien vokser.
+At økonomisk kapital er den viktigste formen for bærekraft.
+At bærekraft bare handler om mennesker.
+0
+Hva er forskjellen på myk og hard paternalisme?
+Myk griper inn når individet ikke handler frivillig eller informert, mens hard gjør det selv når handlingen er frivillig.
+Hard gjelder politikk, myk gjelder økonomi.
+Myk er etisk, hard er juridisk.
+De er identiske prinsipper.
+0
+Hva er den logiske funksjonen til et argument?
+Å støtte eller svekke en påstand ved å gi grunner.
+Å overbevise følelser.
+Å bruke retorikk for effekt.
+Å appellere til autoritet.
+0
+Hva er dydsetikkens hovedfokus?
+Å utvikle gode karaktertrekk og dyder som grunnlag for moralsk handling.
+Å maksimere nytte for flest mulig.
+Å følge plikter uten hensyn til konsekvens.
+Å følge lover for å unngå straff.
+0
+Hva sier Popper om falsifikasjon?
+At teorier må kunne motbevises for å være vitenskapelige.
+At teorier må bekreftes før de er sanne.
+At alle teorier må være sanne.
+At observasjoner beviser hypoteser.
+0
+Hva er forskjellen mellom positiv og negativ frihet?
+Negativ = frihet fra ytre tvang, positiv = frihet til selvbestemmelse.
+Negativ = frihet til handling, positiv = frihet fra ansvar.
+Negativ = lovstyrt frihet, positiv = naturlig frihet.
+Ingen forskjell.
+0
+Hva er formålet med offentlig debatt ifølge Habermas?
+Å oppnå begrunnet konsensus som gir politisk legitimitet.
+Å la de sterkeste meningene vinne.
+Å unngå konflikt og uenighet.
+Å skape underholdning i demokratiet.
+0
+Hva er moralsk nihilisme?
+Synet om at moralske utsagn ikke er sanne eller falske, fordi moral ikke eksisterer objektivt.
+Synet om at alle moralske utsagn er sanne.
+Synet om at moral alltid følger nytte.
+Synet om at alle moralske spørsmål har ett rett svar.
+0
+Hva sier Nussbaum at vi må måle i en god stat?
+Kapabiliteter – faktiske muligheter til å leve et verdig liv.
+Bruttonasjonalprodukt.
+Antall lover og regler.
+Nivå av formell frihet.
+0
+Hva kjennetegner et abduktivt argument?
+Det trekker den beste forklaringen på et observert fenomen.
+Det beviser en konklusjon logisk.
+Det anvender generelle lover på enkelttilfeller.
+Det bygger på kulturelle normer.
+0
+Hva menes med ansvarsgapet i teknologi?
+At autonome systemer gjør det vanskelig å fordele moralsk ansvar.
+At ansvar alltid kan spores tilbake til én person.
+At teknologi ikke kan ha moralske konsekvenser.
+At ansvar kun gjelder brukerne.
+0
+Hva kjennetegner pliktetikken?
+At moralsk verdi ligger i å handle ut fra plikt og intensjon, ikke konsekvens.
+At moral handler om følelser og empati.
+At nytte bestemmer hva som er rett.
+At alt moralsk er relativt til kontekst.
+0
+Hva menes med teknologisk determinisme?
+At teknologi utvikles uavhengig av verdier og former samfunnet.
+At samfunnet bestemmer teknologien.
+At teknologi er uten betydning for moral.
+At teknologi alltid løser alle problemer.
+0
+Hva menes med humanitetsformuleringen hos Kant?
+Behandle alltid mennesker som mål i seg selv, aldri bare som middel.
+Følg reglene for å maksimere lykke.
+Handle slik at konsekvensene blir best mulig.
+Søk sannhet fremfor plikt.
+0
+Hva er forskjellen mellom deskriptiv og normativ etikk?
+Deskriptiv beskriver hvordan folk faktisk mener og handler, normativ sier hva som er riktig å gjøre.
+Deskriptiv handler om lover, normativ om fakta.
+Normativ handler om psykologi, deskriptiv om filosofi.
+Ingen forskjell.
+0
+Hva sier Martin & Schinzinger om ingeniørers ansvar?
+At ingeniører skal beskytte samfunnets helse, sikkerhet og velferd over alt annet.
+At økonomisk gevinst er viktigst.
+At ansvar ligger hos arbeidsgiver.
+At etikk ikke gjelder ingeniører.
+0
+En ingeniør utvikler et KI-system som skal hjelpe leger å stille diagnoser. Systemet kan redde mange liv, men det er en risiko for feil som kan skade enkelte pasienter. Hvilket etisk prinsipp bør veie tyngst i vurderingen?
+Utilitaristisk vurdering av samlet nytte.
+Kants plikt til å alltid si sannheten.
+Dydsetikkens fokus på karakterutvikling.
+Kulturell relativisme.
+0
+Et politisk parti foreslår et forbud mot bruk av sosiale medier for personer under 16 år for å beskytte psykisk helse. Hvordan kan dette best forsvares filosofisk?
+Som et eksempel på paternalisme begrunnet i skadeprinsippet.
+Som uttrykk for positiv frihet.
+Som en konsekvens av sterk bærekraft.
+Som en dydsetisk forpliktelse til selvrealisering.
+0
+En forsker manipulerer genmateriale for å utvikle sykdomsresistente mennesker. Hvilket argument er mest i tråd med sterk bærekraft og pliktetikk?
+Vi bør ikke gjøre det, fordi naturen har en egenverdi som må respekteres.
+Vi bør gjøre det, fordi det maksimerer lykke for flest mulig.
+Vi bør gjøre det, fordi teknologisk fremgang alltid er god.
+Vi bør ikke gjøre det, fordi det reduserer økonomisk vekst.
+0
+En bedrift bruker kunstig intelligens til å ansette arbeidere, men systemet diskriminerer minoriteter. Hvilket perspektiv gir best begrunnelse for å stoppe bruken?
+Statusbasert rettighetsteori.
+Interessebasert utilitarisme.
+Teknologisk determinisme.
+Epistemisk relativisme.
+0
+Et universitet får midler til forskning på våpenteknologi. Hvilken profesjonsetisk tilnærming bør ligge til grunn for vurderingen?
+Ingeniørers samfunnsansvar for sikkerhet, helse og velferd må veie tyngst.
+Forskningsfrihet bør alltid gå foran etiske hensyn.
+Økonomisk gevinst er det eneste gyldige kriteriet.
+Etiske vurderinger er irrelevante i vitenskapelig arbeid.
+0
+Et politisk parti argumenterer for overvåkning av borgere for å forebygge kriminalitet. Hvordan kan dette forsvares innen utilitarismen?
+Overvåkning kan rettferdiggjøres dersom det totalt sett øker trygghet og velferd.
+Overvåkning er galt fordi det krenker menneskeverd.
+Overvåkning er galt fordi frihet er et mål i seg selv.
+Overvåkning er galt fordi staten ikke bør gripe inn i privatlivet.
+0
+En lege velger å lyve til en døende pasient for å gi håp. Hvordan kan denne handlingen vurderes etisk?
+Pliktetikken forbyr det fordi man ikke må lyve.
+Utilitarismen kan forsvare det dersom løgnen gir større samlet lykke.
+Dydsetikken forbyr løgner i alle situasjoner.
+Metaetikken støtter løgnen som kulturelt betinget.
+1
+En ny klimateknologi kan binde CO₂, men krever store naturinngrep. Hvordan bør dette vurderes ut fra svak og sterk bærekraft?
+Svak bærekraft kan forsvare det, sterk bærekraft vil avvise det.
+Sterk bærekraft forutsetter det, svak bærekraft avviser det.
+Begge støtter tiltaket.
+Ingen av teoriene er relevante.
+0
+Et KI-system tar beslutninger om helseprioritering uten menneskelig kontroll. Hva er det viktigste etiske problemet?
+Et ansvarsgap fordi ingen enkeltperson kan holdes fullt ansvarlig.
+Manglende effektivitet.
+Teknologisk optimisme.
+For mye menneskelig innblanding.
+0
+En politiker hevder at ytringsfrihet bør begrenses for å hindre desinformasjon. Hvordan kan dette utfordres filosofisk?
+Mill hevdet at sannhet fremmes best gjennom fri meningsutveksling.
+Habermas hevdet at sannhet bestemmes av majoriteten.
+Kant hevdet at staten bør beskytte oss mot usannheter.
+Taylor hevdet at ytringsfrihet ikke er nødvendig for anerkjennelse.
+0
+Et selskap utvikler autonome våpen. Hvilket begrep beskriver utfordringen med å plassere ansvar for etiske feil?
+The responsibility gap.
+The precautionary principle.
+Technological optimism.
+Value neutrality.
+0
+En regjering vil innføre høye avgifter på kjøtt for å redusere klimagassutslipp. Hvilken etisk teori støtter dette sterkest?
+Utilitarisme, fordi det reduserer samlet skade på mennesker og dyr.
+Pliktetikk, fordi det maksimerer frihet.
+Dydsetikk, fordi det fremmer grådighet.
+Kulturrelativisme, fordi det passer inn i tradisjonene.
+0
+En forsker hevder at kunstig intelligens ikke kan være etisk ansvarlig. Hvilket syn støtter dette?
+Bare mennesker kan tilskrives moralsk ansvar fordi de kan forstå og vurdere konsekvenser.
+Maskiner har etisk autonomi på linje med mennesker.
+Ansvar kan fordeles likt mellom teknologi og samfunn.
+Etisk ansvar er irrelevant i vitenskap.
+0
+En stat forbyr demonstrasjoner for å opprettholde ro og orden. Hvilket frihetsbegrep utfordres mest?
+Negativ frihet.
+Positiv frihet.
+Frihet som selvrealisering.
+Moralisk frihet.
+0
+Et oljeselskap hevder at de skaper arbeidsplasser, mens kritikere viser til klimaskader. Hvordan kan dette best analyseres?
+Som et etisk dilemma mellom nytte og bærekraft.
+Som et eksempel på paternalisme.
+Som et spørsmål om teknologisk determinisme.
+Som et spørsmål om epistemisk relativisme.
+0
+Et teknologiselskap bruker data fra brukere uten samtykke for å forbedre tjenester. Hvilken norm brytes?
+Respekt for autonomi og informert samtykke.
+Respekt for autoritet og tradisjon.
+Plikten til lojalitet mot staten.
+Prinsippet om dobbel effekt.
+0
+En forsker manipulerer data for å få bedre resultater. Hvordan vurderes dette i vitenskapsfilosofi?
+Det bryter med kravet om etterprøvbarhet og åpenhet.
+Det styrker hypotesen.
+Det er et eksempel på pragmatisk metode.
+Det er akseptabelt hvis resultatet er sant.
+0
+Et selskap hevder at markedet alene vil løse klimaproblemet. Hvilken vitenskapsfilosofisk posisjon er dette et uttrykk for?
+Teknologisk optimisme og økonomisk reduksjonisme.
+Vitenskapelig realisme.
+Sterk bærekraft.
+Metaetisk nihilisme.
+0
+En forsker forsvarer bruk av dyr i medisinsk forskning fordi det kan redde menneskeliv. Hvilken etisk teori støtter dette?
+Utilitarismen, fordi den vurderer total nytte og skade.
+Pliktetikken, fordi dyr har egenverdi.
+Dydsetikken, fordi det viser medfølelse.
+Relativismen, fordi moral varierer.
+0
+Et internasjonalt selskap flytter produksjon til land med svak miljølovgivning. Hvilket prinsipp brytes etter van de Poel & Royakkers?
+Forebyggende ansvar og moralsk systemperspektiv.
+Falsifikasjonsprinsippet.
+Teknologisk determinisme.
+Positiv frihet.
+0

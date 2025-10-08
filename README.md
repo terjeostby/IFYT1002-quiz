@@ -1,2 +1,2 @@
 # IFYT1002-quiz
-Flervalgsspørsmål i IFYT1002
+Flervalgsspørsmål i EXPH0600
